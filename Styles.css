@@ -1,5 +1,12 @@
 body {  
-    font-family: Arial, sans-serif;  
+    font-family: Arial, sans-serif;  body {  
+    background-color: #f4f4f4; /* Cor de fundo */  
+    color: #333; /* Cor do texto */  
+}  
+
+h1 {  
+    color: #0066cc; /* Cor do título */  
+}  
     background-color: #1e1e2f;  
     color: #ffffff;  
     margin: 0;  
